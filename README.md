@@ -37,5 +37,5 @@ sudo docker pull omkarsakhare07/devops-project
 sudo docker run -d -p 80:3000 omkarsakhare07/devops-project
 
 ## Live Application
-http://18.206.85.80 (changes as per ec2 ip)
+http://<EC2_pub_ip>
 
